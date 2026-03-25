@@ -14,13 +14,24 @@ public class Ex05BiggerSmaller {
         int number = sc.nextInt();
 
         System.out.print("Enter an integer: ");
-        int num = sc.nextInt();
-        bigger1 = num;
-        bigger2 = num;
-        smaller1 = num;
-        smaller2 = num;
+        int num1 = sc.nextInt();
 
-        for (int i = 2; i <= number; i++) { //i = 2 porque ja foi lido um numero fora do loop
+        System.out.print("Enter an integer: ");
+        int num2 = sc.nextInt();
+
+        if (num1 > num2) {
+            bigger1 = num1;
+            bigger2 = num2;
+            smaller1 = num2;
+            smaller2 = num1;
+        } else {
+            bigger1 = num2;
+            bigger2 = num1;
+            smaller1 = num1;
+            smaller2 = num2;
+        }
+
+        for (int i = 3; i <= number; i++) { //i = 3 porque ja foi lido dois numeros fora do loop
             System.out.print("Enter an integer: ");
             int numb = sc.nextInt();
 
@@ -43,8 +54,8 @@ public class Ex05BiggerSmaller {
         if (bigger1 == smaller1) {
             System.out.print("All the numbers are equal.");
         } else {
-            System.out.printf("Two biggest: %d e %d", bigger1, bigger2);
-            System.out.printf("\nTwo minors: %d e %d", smaller1, smaller2);
+            System.out.printf("Two biggest: %d e %d.", bigger1, bigger2);
+            System.out.printf("\nTwo smallest: %d e %d.", smaller1, smaller2);
         }
 
         sc.close();

@@ -16,5 +16,7 @@ public class Ex06PersonAge {
         } else {
             System.out.println("Of legal age.");
         }
+
+        sc.close();
     }
 }

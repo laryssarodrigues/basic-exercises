@@ -13,12 +13,18 @@ public class Ex05BiggerSmaller {
         System.out.print("Quantify of whole numbers: ");
         int number = sc.nextInt();
 
-        System.out.print("Enter an integer: ");
+        if (number < 2) {
+            System.out.print("Add more numbers!");
+            return; //mostra a mensagem e encerra o programa
+        }
+
+        System.out.print("Enter an integer: "); //primeiro numero
         int num1 = sc.nextInt();
 
-        System.out.print("Enter an integer: ");
+        System.out.print("Enter an integer: "); //segundo numero
         int num2 = sc.nextInt();
 
+        //estrutura feita para garantir quem é o maior e quem é menor
         if (num1 > num2) {
             bigger1 = num1;
             bigger2 = num2;
@@ -51,13 +57,12 @@ public class Ex05BiggerSmaller {
             }
         }
 
-        if (bigger1 == smaller1) {
+        if (bigger1 == smaller1) { //se maior1 for igual a menor1 (ex.: maior é 7 e menor tambem é 7), sao iguais
             System.out.print("All the numbers are equal.");
         } else {
             System.out.printf("Two biggest: %d e %d.", bigger1, bigger2);
             System.out.printf("\nTwo smallest: %d e %d.", smaller1, smaller2);
         }
-
         sc.close();
     }
 }

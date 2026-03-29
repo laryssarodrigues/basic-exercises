@@ -24,5 +24,6 @@ public class Ex17LargestInteger {
         } else {
             System.out.printf(">>> Largest number: %d", num3);
         }
+        sc.close();
     }
 }

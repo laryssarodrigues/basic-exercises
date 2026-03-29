@@ -11,6 +11,11 @@ public class Ex07SumOddNumbers {
         System.out.print("Enter a number: ");
         int number = sc.nextInt();
 
+        if (number < 0) {
+            System.out.println("Invalid value!");
+            return;
+        }
+
         int cont = 0;
         for (int i = 1; i <= number; i++) {
             if (i % 2 == 1) { //verifica se cada numero da vez (i) é ímpar
@@ -22,7 +27,6 @@ public class Ex07SumOddNumbers {
                 cont += i; //soma os numeros ímpares
             }
         }
-
         System.out.printf(" = %d", cont);
         sc.close();
     }

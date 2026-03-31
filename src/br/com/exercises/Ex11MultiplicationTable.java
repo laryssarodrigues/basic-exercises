@@ -22,7 +22,7 @@ public class Ex11MultiplicationTable {
         //loop externo: escolhe o numero
         //loop interno: calcula sua tabuada
         for (int i = 1; i <= number; i++) { //define ate qual numero a tabuada sera mostrada
-            System.out.printf(">> Multiplication table of %d: ", i); //imprime qual
+            System.out.printf(">> Multiplication table of %d: ", i);
 
             for (int j = 1; j <= 10; j++) { //pega o numero e calcula sua tabuada
                 int multiplication =  i * j;

@@ -25,5 +25,6 @@ public class Ex39ATaskListOrder {
             System.out.println(counter + ". " + tasks[j]);
             counter++;
         }
+        sc.close();
     }
 }

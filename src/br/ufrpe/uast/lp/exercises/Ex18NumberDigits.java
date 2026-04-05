@@ -1,4 +1,8 @@
-//program that reads a positive integer and counts how many digits it has.
+/* program that reads a positive integer and counts how many digits it has.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 29/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

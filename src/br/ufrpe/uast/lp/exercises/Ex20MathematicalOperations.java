@@ -1,4 +1,8 @@
-//shows a menu and performs operations until the user chooses to exit
+/* shows a menu and performs operations until the user chooses to exit
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 01/04/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

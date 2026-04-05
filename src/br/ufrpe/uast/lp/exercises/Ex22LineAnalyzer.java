@@ -1,4 +1,8 @@
-//reads a line and prints its length, first/last character, and uppercase/lowercase versions.
+/* reads a line and prints its length, first/last character, and uppercase/lowercase versions.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 30/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

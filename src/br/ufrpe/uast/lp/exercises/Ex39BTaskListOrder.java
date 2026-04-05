@@ -1,3 +1,9 @@
+/* reads N tasks and prints them in random order
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 03/04/26
+*/
+
 package br.ufrpe.uast.lp.exercises;
 
 import java.util.Random;

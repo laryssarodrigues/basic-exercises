@@ -1,4 +1,8 @@
-//program that reads a positive integer and reports whether it is prime or not.
+/* program that reads a positive integer and reports whether it is prime or not.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 31/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

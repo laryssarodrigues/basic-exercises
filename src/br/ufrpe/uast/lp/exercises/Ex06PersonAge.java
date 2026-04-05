@@ -1,4 +1,8 @@
-//program that reads a person's age and checks if they are of legal age or a minor.
+/* program that reads a person's age and checks if they are of legal age or a minor.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 25/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

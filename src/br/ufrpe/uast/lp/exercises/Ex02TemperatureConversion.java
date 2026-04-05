@@ -1,4 +1,8 @@
-//program that reads a temperature in Celsius and converts it to Fahrenheit.
+/* program that reads a temperature in Celsius and converts it to Fahrenheit.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 25/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

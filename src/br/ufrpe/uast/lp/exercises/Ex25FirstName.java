@@ -1,4 +1,8 @@
-//program that reads a full name (a single line) and displays only the first name (up to the first space).
+/* program that reads a full name (a single line) and displays only the first name (up to the first space).
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 29/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

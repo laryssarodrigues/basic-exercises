@@ -1,4 +1,8 @@
-//program that reads three integers and displays the largest one.
+/* program that reads three integers and displays the largest one.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 29/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

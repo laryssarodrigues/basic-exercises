@@ -1,4 +1,8 @@
-//program that reads a number N and displays the first N terms of the Fibonacci sequence.
+/* program that reads a number N and displays the first N terms of the Fibonacci sequence.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 28/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

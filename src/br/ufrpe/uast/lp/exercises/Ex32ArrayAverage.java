@@ -1,3 +1,9 @@
+/* reads 5 integers into an array and calculates the average.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 30/03/26
+ */
+
 package br.ufrpe.uast.lp.exercises;
 
 import java.util.Scanner;

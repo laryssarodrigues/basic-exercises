@@ -1,3 +1,9 @@
+/* reads 3 grades, calculates partial/final averages, and determines the student's final status.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 04/04/26
+*/
+
 package br.ufrpe.uast.lp.exercises;
 
 import java.util.Scanner;

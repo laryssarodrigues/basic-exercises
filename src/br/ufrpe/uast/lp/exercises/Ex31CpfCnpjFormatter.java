@@ -1,4 +1,8 @@
-//program that reads numbers of size 11 or 14 and formats them into CPF or CNPJ formats.
+/* program that reads numbers of size 11 or 14 and formats them into CPF or CNPJ formats.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 29/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

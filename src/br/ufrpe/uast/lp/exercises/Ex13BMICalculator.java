@@ -1,4 +1,8 @@
-//program that reads a person's weight (kg) and height (m) and calculates their BMI.
+/* program that reads a person's weight (kg) and height (m) and calculates their BMI.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 28/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

@@ -1,4 +1,8 @@
-//program that reads the first and surname separately and displays the initials.
+/* program that reads the first and surname separately and displays the initials.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 29/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

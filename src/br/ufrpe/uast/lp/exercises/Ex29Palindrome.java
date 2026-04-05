@@ -1,4 +1,8 @@
-//reads a sentence and checks if it is a palindrome
+/* reads a sentence and checks if it is a palindrome
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 02/04/26
+*/
 
 package br.ufrpe.uast.lp.exercises;
 

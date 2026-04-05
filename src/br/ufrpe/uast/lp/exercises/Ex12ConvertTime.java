@@ -1,4 +1,8 @@
-//program that reads a value in seconds and converts it to hours, minutes, and seconds.
+/* program that reads a value in seconds and converts it to hours, minutes, and seconds.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 31/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

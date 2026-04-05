@@ -1,4 +1,8 @@
-//program that reads the base and height of a rectangle and displays its area.
+/* program that reads the base and height of a rectangle and displays its area.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 25/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

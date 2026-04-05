@@ -1,4 +1,8 @@
-//program that reads an integer N and displays the multiplication table from 1 to N, using nested for loops.
+/* program that reads an integer N and displays the multiplication table from 1 to N, using nested for loops.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 31/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

@@ -1,4 +1,8 @@
-//reads N tasks and print them reversed and in random order
+/* reads N tasks and prints them reversed order
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 02/04/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

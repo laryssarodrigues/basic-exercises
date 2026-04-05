@@ -1,4 +1,8 @@
-//program that reads a positive integer and calculates its factorial using a <for> loop.
+/* program that reads a positive integer and calculates its factorial using a <for> loop.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 26/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

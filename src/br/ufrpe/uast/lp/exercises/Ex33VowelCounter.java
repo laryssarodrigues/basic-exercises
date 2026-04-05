@@ -1,4 +1,8 @@
-//program that reads a line entered by the user and counts the vowels in a sentence, ignoring case.
+/* program that reads a line entered by the user and counts the vowels in a sentence, ignoring case.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 29/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

@@ -1,4 +1,8 @@
-//program that reads N integers and displays the 2 largest, the 2 smallest, or if all the numbers are equal.
+/* program that reads N integers and displays the 2 largest, the 2 smallest, or if all the numbers are equal.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 25/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

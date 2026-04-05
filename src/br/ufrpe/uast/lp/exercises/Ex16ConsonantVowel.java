@@ -1,4 +1,8 @@
-//program that reads a letter and indicates whether it is a vowel or a consonant using switch. Ignore case-sensitive/lowercase.
+/* program that reads a letter and indicates whether it is a vowel or a consonant using switch. Ignore case-sensitive/lowercase.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 28/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

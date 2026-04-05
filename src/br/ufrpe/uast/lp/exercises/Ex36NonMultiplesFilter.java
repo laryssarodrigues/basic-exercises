@@ -1,4 +1,8 @@
-//reads N numbers and prints those that are not multiples of M
+/* reads N numbers and prints those that are not multiples of M
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 02/04/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

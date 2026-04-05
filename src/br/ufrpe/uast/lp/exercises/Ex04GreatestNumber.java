@@ -1,4 +1,8 @@
-//program that reads two integers and displays the larger one or whether they are equal.
+/* program that reads two integers and displays the larger one or whether they are equal.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 25/03/26
+*/
 
 package br.ufrpe.uast.lp.exercises;
 

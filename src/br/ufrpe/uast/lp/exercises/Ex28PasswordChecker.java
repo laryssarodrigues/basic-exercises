@@ -1,4 +1,8 @@
-//reads a password and checks if it matches "segredo123", printing access allowed or invalid password.
+/* reads a password and checks if it matches "segredo123", printing access allowed or invalid password.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 30/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

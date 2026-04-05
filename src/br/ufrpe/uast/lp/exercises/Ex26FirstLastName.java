@@ -1,4 +1,8 @@
-//reads a full name and prints the first and last name
+/* reads a full name and prints the first and last name
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 01/04/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

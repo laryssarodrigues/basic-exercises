@@ -1,4 +1,8 @@
-//reads a value and calculates the minium number of banknotes needed
+/* reads a value and calculates the minium number of banknotes needed
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 01/04/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

@@ -1,4 +1,8 @@
-//program that reads a positive integer N and displays the sum of all odd numbers from 1 to N.
+/* program that reads a positive integer N and displays the sum of all odd numbers from 1 to N.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 27/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

@@ -1,4 +1,8 @@
-//program that reads a full name and tells how many characters it has (including spaces).
+/* program that reads a full name and tells how many characters it has (including spaces).
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 29/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

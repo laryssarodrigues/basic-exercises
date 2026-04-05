@@ -1,4 +1,8 @@
-//reads a line and counts how many times 'a' or 'A' appears
+/* reads a line and counts how many times 'a' or 'A' appears
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 30/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

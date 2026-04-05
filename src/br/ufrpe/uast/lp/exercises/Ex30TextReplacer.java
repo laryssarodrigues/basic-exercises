@@ -1,4 +1,8 @@
-//reads a text and replaces a word with another
+/* reads a text and replaces a word with another
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 02/04/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

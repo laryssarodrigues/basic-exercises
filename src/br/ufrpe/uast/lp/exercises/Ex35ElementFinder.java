@@ -1,4 +1,8 @@
-//reads N numbers and searches for a target value
+/* reads N numbers and searches for a target value
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 02/04/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

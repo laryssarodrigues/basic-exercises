@@ -1,4 +1,8 @@
-//program that reads 10 integers and reports how many are negative.
+/* program that reads 10 integers and reports how many are negative.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 25/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 

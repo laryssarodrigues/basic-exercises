@@ -1,4 +1,8 @@
-//program that reads an integer N and displays all the numbers from 1 to N, one per line.
+/* program that reads an integer N and displays all the numbers from 1 to N, one per line.
+Feito por: Laryssa Rodrigues
+Turma: LP 2026.1
+Data: 25/03/26
+ */
 
 package br.ufrpe.uast.lp.exercises;
 
